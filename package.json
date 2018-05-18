@@ -1,0 +1,29 @@
+{
+  "name": "@rokid/release",
+  "version": "1.0.0",
+  "description": "Rokid Release for publishing our images, files and other staffs, all are open sourced",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sh build/run.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rokid/release.git"
+  },
+  "keywords": [
+    "rokid",
+    "release",
+    "build"
+  ],
+  "author": "Yazhong Liu <yazhong.liu@rokid.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rokid/release/issues"
+  },
+  "homepage": "https://github.com/Rokid/release#readme",
+  "dependencies": {
+    "glob": "^7.1.2",
+    "marked": "^0.3.19"
+  }
+}
