@@ -1,5 +1,6 @@
 Rokid Release
 ====================================
+[![Build Status](https://travis-ci.org/Rokid/release.svg?branch=master)](https://travis-ci.org/Rokid/release)
 
 Rokid 用于提供发布镜像的 GitHub 仓库，目前支持 Linux/Android 的官方镜像发布。
 

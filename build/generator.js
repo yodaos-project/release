@@ -8,6 +8,7 @@ const marked = require('marked');
 
 const linuxFiles = glob('linux/**/*.md');
 const release = {
+  date: new Date(),
   linux: [],
   android: [],
 };
