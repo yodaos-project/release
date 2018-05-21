@@ -33,7 +33,8 @@ Rokid Release 中定义了如下角色以及定义，在使用前请先了解。
 
 每次发布都由一个[提交者](#提交者)发起，一般为镜像的开发及维护人员。目前已知的镜像维护人员为：
 
-- 官方的 Linux 镜像由 [@yorkie](https://github.com/yorkie) 维护；
+- 官方 Linux 镜像由 [@yorkie](https://github.com/yorkie) 维护；
+- 官方安卓镜像由 [@siokagami](https://github.com/siokagami) 维护；
 
 #### 发布者
 
