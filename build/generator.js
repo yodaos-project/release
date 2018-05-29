@@ -26,6 +26,7 @@ glob('linux/**/*.md').forEach((pathname) => {
       upgrade: null,
       flush: null,
     },
+    readme: null,
   };
   const filename = path.basename(pathname);
   const props = filename.split('-');
@@ -46,6 +47,8 @@ glob('linux/**/*.md').forEach((pathname) => {
       }
     }
   });
+  item.readme = markdownSrc;
+
   release.linux.push(item);
 });
 
