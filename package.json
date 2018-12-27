@@ -1,5 +1,5 @@
 {
-  "name": "@rokid/release",
+  "name": "@yodaos-core/release",
   "version": "1.0.0",
   "description": "Rokid Release for publishing our images, files and other staffs, all are open sourced",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rokid/release.git"
+    "url": "git+https://github.com/yodaos-project/release.git"
   },
   "keywords": [
     "rokid",
@@ -19,9 +19,9 @@
   "author": "Yazhong Liu <yazhong.liu@rokid.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Rokid/release/issues"
+    "url": "https://github.com/yodaos-project/release/issues"
   },
-  "homepage": "https://github.com/Rokid/release#readme",
+  "homepage": "https://github.com/yodaos-project/release#readme",
   "dependencies": {
     "glob": "^7.1.2",
     "marked": "^0.3.19"
