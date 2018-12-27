@@ -1,6 +1,6 @@
 YODAOS Release
 ====================================
-[![Build Status](https://travis-ci.org/yodaos-project/release.svg?branch=master)](https://travis-ci.org/yodaos-project/release)
+[![Build Status](https://travis-ci.com/yodaos-project/release.svg?branch=master)](https://travis-ci.com/yodaos-project/release)
 
 It's used to publish YODAOS images, currently supports:
 
