@@ -32,7 +32,6 @@ glob('linux/**/*.md').forEach((pathname) => {
   const props = filename.split('-');
   item.version = props[0];
   item.datetime = props[1];
-  item.buildId = props[2].replace(/\.md$/, '');
 
   const markdownSrc = fs.readFileSync(pathname, 'utf8');
   const tokens = marked.lexer(markdownSrc);
