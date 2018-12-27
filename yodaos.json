@@ -1,0 +1,26 @@
+{
+  "date": "2018-12-27T17:37:13.217Z",
+  "linux": [
+    {
+      "category": "linux/amlogic_a113",
+      "imageUri": {
+        "upgrade": null,
+        "flush": "http://yodaos-images.oss-cn-hangzhou.aliyuncs.com/a113/yodaos_a113-20181220.zip"
+      },
+      "readme": "<!--flush_image_uri=http://yodaos-images.oss-cn-hangzhou.aliyuncs.com/a113/yodaos_a113-20181220.zip-->\n",
+      "version": "7.29.6",
+      "datetime": "20181120.md"
+    },
+    {
+      "category": "linux/kamino18/3.31",
+      "imageUri": {
+        "upgrade": null,
+        "flush": "http://yodaos-images.oss-cn-hangzhou.aliyuncs.com/kamino18/3.11/yodaos_k18_universal_3.31-20181221.zip"
+      },
+      "readme": "<!--flush_image_uri=http://yodaos-images.oss-cn-hangzhou.aliyuncs.com/kamino18/3.11/yodaos_k18_universal_3.31-20181221.zip-->\n",
+      "version": "7.29.6",
+      "datetime": "20181120.md"
+    }
+  ],
+  "android": []
+}
